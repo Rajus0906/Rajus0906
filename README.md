@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-My name is Raju Sivanantham, a game designer from Toronto, Canada
+My name is Raju Sivanantham, a game designer from Toronto, Canada. 
+
+🔭 I’m currently working on a parkour action stealth game in Unity using C#, called Bloostained Moon.
+
+🌱 I’m currently learning Java
+
+📫 How to reach me: Rajusivanantham@gmail.com 
 
 <!--
 **Rajus0906/Rajus0906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
