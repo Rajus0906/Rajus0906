@@ -8,6 +8,8 @@ My name is Raju Sivanantham, a game designer from Toronto, Canada.
 
 📫 How to reach me: Rajusivanantham@gmail.com 
 
+And be sure to checkout my socials on https://twitter.com/RajuS0906, https://www.linkedin.com/in/raju-sivanantham/, or checkout my website for new information and releases.
+
 <!--
 **Rajus0906/Rajus0906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
