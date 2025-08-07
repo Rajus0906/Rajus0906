@@ -2,13 +2,9 @@
 
 My name is Raju Sivanantham, a game designer from Toronto, Canada. 
 
-🔭 I’m currently working on a parkour action stealth game in Unity using C#, called Bloostained Moon.
-
-🌱 I’m currently learning Unreal Engine
+🔭 I’m currently working on a FPS game called Dine & Dash in Unity using C#.
 
 📫 How to reach me: Rajusivanantham@gmail.com 
-
-And be sure to checkout my socials on Twitter:https://twitter.com/RajuS0906, Linkedin:https://www.linkedin.com/in/raju-sivanantham/, or checkout my website https://rajus0906.github.io/RajuSivanantham/ for new information and releases.
 
 
 ## 🌐 Socials:
