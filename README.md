@@ -2,7 +2,7 @@
 
 My name is Raju Sivanantham, a game designer from Toronto, Canada. 
 
-🔭 I’m currently working on a FPS game called Dine & Dash in Unity using C#.
+🔭 I’m an emerging game developer/designer specializing in interactive systems, level design, and Unity-based gameplay programming, with experience in Unreal. I’m currently exploring Third-person game mechanics and pushing my unity skills to the max, where I prototype movement, combat, and responsive player feedback in C#. I’m driven by worldbuilding, systems thinking, and the craft of turning ideas into playable spaces. As I continue developing my skills, I aim to create experiences that are intuitive, atmospheric, and mechanically satisfying.
 
 📫 How to reach me: Rajusivanantham@gmail.com 
 
